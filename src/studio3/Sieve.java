@@ -24,6 +24,8 @@ public class Sieve {
 		for (int i = 1; i < n; i++)
 		{
 			System.out.println(primeNumbers[i]);
+			if (primeNumbers[i] = true)
+				System.out.println(i);
 		}
 	}
 
